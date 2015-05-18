@@ -1,0 +1,11 @@
+.choice {
+  display: inline-block;
+  width: 17%;
+  margin: 1%; }
+  .choice img {
+    width: 100%;
+    display: inline-block; }
+    .choice img:hover {
+      opacity: .5; }
+
+/*# sourceMappingURL=styles.css.map */

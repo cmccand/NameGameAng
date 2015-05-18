@@ -1,0 +1,13 @@
+.choice {
+  display:inline-block;
+  width:17%;
+  margin:1%;
+  img {
+    width: 100%;
+    display:inline-block;
+    &:hover {
+      opacity: .5;
+    }
+  }
+
+}
